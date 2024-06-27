@@ -145,7 +145,6 @@ public class test1 extends Test1{
 		
 		driver.findElement(MobileBy.xpath("//*[@text='Next']")).click();
 		
-//		driver.findElement(MobileBy.xpath("//*[@text='']")).click();
 		
 	}
 	
